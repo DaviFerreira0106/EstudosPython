@@ -1,0 +1,2 @@
+FLASK_APP=sensor_proximidade.py
+FLASK_ENV=development
